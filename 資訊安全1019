@@ -1,5 +1,5 @@
 
-  #netstat
++#netstat
 -netstat -a
 -netstat -an
 -netstat -ano
