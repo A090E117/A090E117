@@ -1,8 +1,8 @@
 
-#netstat
--netstat -a
--netstat -an
--netstat -ano
+# netstat
+- netstat -a
+- netstat -an
+- netstat -ano
 ```
 C:\Users\user>netstat /?
 
